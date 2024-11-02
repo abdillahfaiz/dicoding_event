@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+     <item
+        android:id="@+id/navigation_upcoming_event"
+        android:icon="@drawable/ic_upcoming_event"
+        android:title="@string/upcoming" />
+
+    <item
+        android:id="@+id/navigation_finished_event"
+        android:icon="@drawable/ic_finished_event"
+        android:title="@string/finished" />
+
+    <item
+        android:id="@+id/navigation_bookmark_event"
+        android:icon="@drawable/ic_bookmarks"
+        android:title="@string/bookmark" />
+
+    <item
+        android:id="@+id/navigation_setting"
+        android:icon="@drawable/ic_setting"
+        android:title= "@string/setting"/>
+
+</menu>
